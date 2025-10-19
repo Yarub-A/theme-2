@@ -1,0 +1,9 @@
+/* أنماط داعمة لاتجاه RTL */
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+.navbar-nav .dropdown-menu {
+    text-align: right;
+}

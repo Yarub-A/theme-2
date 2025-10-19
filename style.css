@@ -1,0 +1,23 @@
+/*
+Theme Name: Renita University
+Theme URI: https://example.com/themes/renita-university
+Author: Renita University Web Team
+Author URI: https://example.com
+Description: قالب ووردبريس رسمي ثنائي اللغة لجامعة Renita University / الجامعة الأوروبية للعلوم الذكية مع دعم Gutenberg وPolylang وBootstrap.
+Version: 1.0.1
+Text Domain: renita
+Domain Path: /languages
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+:root {
+    color-scheme: light;
+}
+
+body {
+    font-family: "Tajawal", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
