@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "primary", "name": "Dark Blue", "color": "#0C2851" },
+        { "slug": "secondary", "name": "Gold", "color": "#C5A253" },
+        { "slug": "light", "name": "Light", "color": "#f8f9fa" },
+        { "slug": "dark", "name": "Dark", "color": "#212529" }
+      ]
+    },
+    "spacing": {
+      "units": ["px", "rem", "%"],
+      "default": 8
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "slug": "body",
+          "name": "Tajawal",
+          "fontFamily": "'Tajawal', system-ui, sans-serif"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "text": "#212529",
+      "background": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--body)"
+    },
+    "elements": {
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--primary)"
+        }
+      }
+    }
+  }
+}

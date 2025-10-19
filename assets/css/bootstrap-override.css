@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f7fb;
+}
+
+.site-header .navbar-brand {
+    color: var(--bs-primary);
+    text-transform: uppercase;
+}
+
+.site-header .navbar-nav a {
+    color: #1f2937;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.site-header .navbar-nav a:hover,
+.site-header .navbar-nav .current-menu-item > a {
+    color: var(--bs-secondary);
+}
+
+.site-footer {
+    background: #0C2851;
+}
+
+.site-footer a {
+    color: #fff;
+}
+
+.renita-stats-strip {
+    background: #0C2851;
+}
+
+.renita-stats-strip .display-5 {
+    color: #fff;
+}
